@@ -13,7 +13,6 @@ import './index.scss';
 const rootElement = document.getElementById('root');
 
 render(
-  <React.StrictMode>
     <Provider store={store}>
       <BrowserRouter>
         <CategoriesProvider>
@@ -22,7 +21,6 @@ render(
           </CartProvider>
         </CategoriesProvider>
       </BrowserRouter>
-    </Provider>
-  </React.StrictMode>,
+    </Provider>,
   rootElement
 );
