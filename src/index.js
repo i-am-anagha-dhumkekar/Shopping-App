@@ -8,7 +8,7 @@ import { CategoriesProvider } from './contexts/categories.context';
 import { CartProvider } from './contexts/cart.context';
 import { store } from './store/store';
 
-import './index.scss';
+
 
 const rootElement = document.getElementById('root');
 
