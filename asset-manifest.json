@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Shopping-App/static/js/main.03524002.js",
+    "static/media/shopping-bag.svg": "/Shopping-App/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Shopping-App/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Shopping-App/index.html",
+    "main.03524002.js.map": "/Shopping-App/static/js/main.03524002.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.03524002.js"
+  ]
+}
