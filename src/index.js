@@ -14,7 +14,7 @@ const rootElement = document.getElementById('root');
 
 render(
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <CategoriesProvider>
           <CartProvider>
             <App />
